@@ -13,5 +13,5 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 ## ❤️ Contato
 
-diego-vespa2020@outlook.ocm.br
+diego-vespa2020@outlook.com.br
 
